@@ -1,0 +1,6 @@
+Variables can be a combination of letters in lowercase, uppercase, numbers, or an underscore. Names like myClass, var_1, and print_this_to_screen all are valid examples.
+A variables cannot start with a digit. 1variable is invalid, but variable1 is a valid name.
+Keywords cannot be used as variables.
+We cannot use symbols in a variable.
+
+Note: Python is a case-sensitive language.
